@@ -1,0 +1,8 @@
+.container{
+    max-width: 130px;
+    margin: 0 auto;
+    padding: 15px;
+}
+.section__site{
+    white-space: nowrap;
+}
