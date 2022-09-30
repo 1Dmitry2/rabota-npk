@@ -31,6 +31,10 @@
     display: flex;
 }
 
+.header-between::before {
+    
+}
+
 .inline {
     display: inline-block;
 }
@@ -41,9 +45,14 @@
 
 .header-title {
     font-weight: 800;
-    font-size: 18pt;
+    font-size: 16pt;
 }
 
 .header-description {
-    
+    font-size: 14pt;
+    font-weight: 200;
+}
+
+.header-between-img {
+    padding: 10px;
 }
