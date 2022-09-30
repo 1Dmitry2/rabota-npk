@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 .container{
     max-width: 130px;
     margin: 0 auto;
@@ -7,11 +6,11 @@
 }
 .section__site{
     white-space: nowrap;
-=======
+
 header {
-=======
+
 .header {
->>>>>>> 29a31980f6adeb66893adc2f31f68b2f12709a92
+
     background-color: #000026;
     height: 60px;
     width: 100%;
@@ -19,9 +18,7 @@ header {
 
 .circled_menu {
     width: 24px;
-<<<<<<< HEAD
->>>>>>> 17b41bf54b393ba427f85d7140f6e9aa5ec7ebc8
-=======
+
 }
 
 .header-right {
@@ -30,5 +27,4 @@ header {
 
 .header-items {
     width: 35px;
->>>>>>> 29a31980f6adeb66893adc2f31f68b2f12709a92
 }
