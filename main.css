@@ -1,4 +1,3 @@
-
 .container{
     max-width: 130px;
     margin: 0 auto;
@@ -6,11 +5,9 @@
 }
 .section__site{
     white-space: nowrap;
-
-header {
+}
 
 .header {
-
     background-color: #000026;
     height: 60px;
     width: 100%;
@@ -18,7 +15,6 @@ header {
 
 .circled_menu {
     width: 24px;
-
 }
 
 .header-right {
